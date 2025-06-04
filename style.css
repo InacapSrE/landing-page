@@ -7,17 +7,39 @@
     width: 100%;
     height: 450px;
     background-color: rgb(211, 73, 26);
+    margin-top: 50px;
+     margin: 10px 20px 15px;
 }
 
 #bienvenida{
     width: 100%;
     height: 450px;
     background-color: rgb(5, 5, 231);
+    margin-top: 75px;
+    margin-bottom: 10px;
+   
 }
 
 a {
-    background-color: chocolate;
+    background-color: red;
     color: antiquewhite;
     font-family: Impact;
     border-radius: 50px;
+    margin-left: 100px;
+    border: 50px solid red;
+}
+
+div{
+    display: inline-block;
+}
+
+.imagen {
+    width: 30%;
+    border: 5px;
+    height: 425px;
+    text-align: left;
+}
+img{
+    height: 450px;
+    width: auto;
 }

@@ -1,0 +1,23 @@
+#contacto{
+    width: 100%;
+    height: 450px;
+    background-color: aqua;
+}
+#detalles{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(211, 73, 26);
+}
+
+#bienvenida{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(5, 5, 231);
+}
+
+a {
+    background-color: chocolate;
+    color: antiquewhite;
+    font-family: Impact;
+    border-radius: 50px;
+}
